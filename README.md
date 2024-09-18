@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Myself Omkar Laad<br>Im currently learning Nodejs<br>Ask me about  Frontend-Development<br>You can reach me Through: laadomkar70@gmail.com
+Hey Myself Omkar Laad<br>Im currently learning Nodejs<br>Ask me about  Frontend-Development<br>You can reach me via: laadomkar70@gmail.com
 
 
 ## 🌐 Socials:
