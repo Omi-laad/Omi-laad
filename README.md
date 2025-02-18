@@ -8,9 +8,6 @@ You can reach me via: **laadomkar70@gmail.com**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-laad-29a338297) 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@laad_omkar)  
 
-## 🌍 Portfolio & Resume:
-📂 **Portfolio:** [Add Link Here]  
-📄 **Resume:** [Download Here](#)  
 
 # 💻 Tech Stack:
 ### 🔹 Programming Languages:
