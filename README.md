@@ -1,12 +1,14 @@
 # 💫 About Me:
-![Welcome Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjc3pvc2tyMWF0MDNsenU3ZmwwbGlxbHg2bmYzc2wzZmt5Y2w4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
-<br>
 Hey, I'm **Omkar Laad** 👋<br>
 You can reach me via: **laadomkar70@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-laad-29a338297) 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@laad_omkar)  
+<br>
+
+![Welcome Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjc3pvc2tyMWF0MDNsenU3ZmwwbGlxbHg2bmYzc2wzZmt5Y2w4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
+<br>
 
 
 # 💻 Tech Stack:
