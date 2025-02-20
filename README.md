@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Welcome Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRoc3d2Nm4zMWs4cXVkcWlmMHFmdXg4Nnc1YW4wYzM5cDdjZXRqZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)
+![Welcome Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hjc3pvc2tyMWF0MDNsenU3ZmwwbGlxbHg2bmYzc2wzZmt5Y2w4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
 <br>
 Hey, I'm **Omkar Laad** 👋<br>
 You can reach me via: **laadomkar70@gmail.com**
